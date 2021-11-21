@@ -1,0 +1,5 @@
+Patient Details
+Name of Patient:Usama Khan
+Cell #:03035665554
+Address:F6,Islamabad
+Suffering From:Fever

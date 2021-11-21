@@ -1,0 +1,5 @@
+Patient Details
+Name of Patient:Usama Khan
+Cell #:12345
+Address:F6,Islamabad
+Suffering From:Fever
